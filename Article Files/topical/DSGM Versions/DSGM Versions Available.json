@@ -1,0 +1,179 @@
+{
+    "versions": [
+        {
+            "version": "v2.5",
+            "image": "DSGMIcon 2.5-2.7B",
+            "ext": "exe"
+        },
+        {
+            "version": "v2.6A",
+            "image": "DSGMIcon 2.5-2.7B",
+            "ext": "exe"
+        },
+        {
+            "version": "v2.6B",
+            "image": "DSGMIcon 2.5-2.7B",
+            "ext": "exe"
+        },
+        {
+            "version": "v2.7A",
+            "image": "DSGMIcon 2.5-2.7B",
+            "ext": "exe"
+        },
+        {
+            "version": "v2.7B",
+            "image": "DSGMIcon 2.5-2.7B",
+            "ext": "exe"
+        },
+        {
+            "version": "v2.8A",
+            "image": "DSGMIcon 2.8A-3.1",
+            "ext": "exe"
+        },
+        {
+            "version": "v2.8B",
+            "image": "DSGMIcon 2.8A-3.1",
+            "ext": "exe"
+        },
+        {
+            "version": "v2.8C",
+            "image": "DSGMIcon 2.8A-3.1",
+            "ext": "exe"
+        },
+        {
+            "version": "v2.8D",
+            "image": "DSGMIcon 2.8A-3.1",
+            "ext": "exe"
+        },
+        {
+            "version": "v3.0",
+            "image": "DSGMIcon 2.8A-3.1",
+            "ext": "exe"
+        },
+        {
+            "version": "v3.1",
+            "image": "DSGMIcon 2.8A-3.1",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.0",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.1",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.2",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.3",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.4",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.5",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.6",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.7",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.8",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.9A",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v4.9B",
+            "image": "DSGMIcon 4-4.9B",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.03",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.04",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.05",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.06",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.07",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.08",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.09",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.10",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.11",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.12",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.20",
+            "image": "dsgamemaker.com",
+            "ext": "zip"
+        },
+        {
+            "version": "v5.21",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        },
+        {
+            "version": "v5.30",
+            "image": "dsgamemaker.com",
+            "ext": "exe"
+        }
+    ]
+}
