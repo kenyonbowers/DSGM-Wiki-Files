@@ -201,7 +201,7 @@
         {
             "version": "v5.21",
             "image": "dsgamemaker.com",
-            "ext": "exe",
+            "ext": "zip",
             "v": "5"
         },
         {
