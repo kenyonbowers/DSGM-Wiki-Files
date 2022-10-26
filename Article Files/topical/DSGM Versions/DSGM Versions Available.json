@@ -4,211 +4,246 @@
             "version": "v2.5",
             "image": "DSGMIcon 2.5-2.7B",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "1.55 MB"
         },
         {
             "version": "v2.6A",
             "image": "DSGMIcon 2.5-2.7B",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "1.54 MB"
         },
         {
             "version": "v2.6B",
             "image": "DSGMIcon 2.5-2.7B",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "1.56 MB"
         },
         {
             "version": "v2.7A",
             "image": "DSGMIcon 2.5-2.7B",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "1.48 MB"
         },
         {
             "version": "v2.7B",
             "image": "DSGMIcon 2.5-2.7B",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "1.48 MB"
         },
         {
             "version": "v2.8A",
             "image": "DSGMIcon 2.8A-3.1",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "2.05 MB"
         },
         {
             "version": "v2.8B",
             "image": "DSGMIcon 2.8A-3.1",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "2.27 MB"
         },
         {
             "version": "v2.8C",
             "image": "DSGMIcon 2.8A-3.1",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "2.05 MB"
         },
         {
             "version": "v2.8D",
             "image": "DSGMIcon 2.8A-3.1",
             "ext": "exe",
-            "v": "2"
+            "v": "2",
+			"size": "2.05 MB"
         },
         {
             "version": "v3.0",
             "image": "DSGMIcon 2.8A-3.1",
             "ext": "exe",
-            "v": "3"
+            "v": "3",
+			"size": "2.42 MB"
         },
         {
             "version": "v3.1",
             "image": "DSGMIcon 2.8A-3.1",
             "ext": "exe",
-            "v": "3"
+            "v": "3",
+			"size": "2.81 MB"
         },
         {
             "version": "v4.0",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "3.67 MB"
         },
         {
             "version": "v4.1",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "6.23 MB"
         },
         {
             "version": "v4.2",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "6.23 MB"
         },
         {
             "version": "v4.3",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "5.61 MB"
         },
         {
             "version": "v4.4",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "25.4 MB"
         },
         {
             "version": "v4.5",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "19.8 MB"
         },
         {
             "version": "v4.6",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "19.7 MB"
         },
         {
             "version": "v4.7",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "19.7 MB"
         },
         {
             "version": "v4.8",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "19.6 MB"
         },
         {
             "version": "v4.9A",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "20.4 MB"
         },
         {
             "version": "v4.9B",
             "image": "DSGMIcon 4-4.9B",
             "ext": "exe",
-            "v": "4"
+            "v": "4",
+			"size": "7.58 MB"
         },
         {
             "version": "v5.03",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "9.83 MB"
         },
         {
             "version": "v5.04",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "9.88 MB"
         },
         {
             "version": "v5.05",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "13.3 MB"
         },
         {
             "version": "v5.06",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "16.2 MB"
         },
         {
             "version": "v5.07",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "16.4 MB"
         },
         {
             "version": "v5.08",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "15.8 MB"
         },
         {
             "version": "v5.09",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "17.4 MB"
         },
         {
             "version": "v5.10",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "17.5 MB"
         },
         {
             "version": "v5.11",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "15.9 MB"
         },
         {
             "version": "v5.12",
             "image": "dsgamemaker.com",
             "ext": "exe",
-            "v": "5"
+            "v": "5",
+			"size": "16.8 MB"
         },
         {
             "version": "v5.20",
             "image": "dsgamemaker.com",
             "ext": "zip",
-            "v": "5"
+            "v": "5",
+			"size": "6.41 MB"
         },
         {
             "version": "v5.21",
             "image": "dsgamemaker.com",
             "ext": "zip",
-            "v": "5"
+            "v": "5",
+			"size": "58.0 MB"
         },
         {
             "version": "v5.30",
             "image": "dsgamemaker.com",
             "ext": "",
-            "v": "5"
+            "v": "5",
+			"size": "0 MB"
         }
     ]
 }
