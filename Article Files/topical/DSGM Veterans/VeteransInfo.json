@@ -1,0 +1,26 @@
+{
+	"veterans": [
+		{
+			"Name": "James Garner"
+			"Email": "j@jada.io",
+			"YouTube": "James Garner",
+			"YouTubeValue": "https://www.youtube.com/channel/UCX-OKJjHLaTXOkxIAPSKM7Q",
+			"Facebook": "",
+			"FacebookValue": "",
+			"Twitter": "@jadaradix",
+			"Discord": "jamesatsticky#6384",
+			"Reddit": ""
+		},
+		{
+			"Name": "DigitalDesignDude"
+			"Email": "",
+			"YouTube": "DigitalDesignDude",
+			"YouTubeValue": "https://www.youtube.com/channel/UCVmba1o66nWG6p-82g22iyg",
+			"Facebook": "",
+			"FacebookValue": "",
+			"Twitter": "@DDesignDude",
+			"Discord": "DDesignDude#0055",
+			"Reddit": ""
+		}
+	]
+}
