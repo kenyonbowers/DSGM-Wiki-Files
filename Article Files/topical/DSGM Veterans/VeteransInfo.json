@@ -1,7 +1,7 @@
 {
 	"veterans": [
 		{
-			"Name": "James Garner"
+			"Name": "James Garner",
 			"Email": "j@jada.io",
 			"YouTube": "James Garner",
 			"YouTubeValue": "https://www.youtube.com/channel/UCX-OKJjHLaTXOkxIAPSKM7Q",
@@ -12,7 +12,7 @@
 			"Reddit": ""
 		},
 		{
-			"Name": "DigitalDesignDude"
+			"Name": "DigitalDesignDude",
 			"Email": "",
 			"YouTube": "DigitalDesignDude",
 			"YouTubeValue": "https://www.youtube.com/channel/UCVmba1o66nWG6p-82g22iyg",
