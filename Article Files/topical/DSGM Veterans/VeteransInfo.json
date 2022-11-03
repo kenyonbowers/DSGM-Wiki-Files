@@ -10,7 +10,10 @@
 			"Twitter": "@jadaradix",
 			"Discord": "jadaradix#6384",
 			"discord_old": "jamesatsticky#6384",
-			"Reddit": ""
+			"Reddit": "",
+			"GitHub": "jadaradix",
+			"Itchio": "",
+			"Website": "https://jada.io"
 		},
 		{
 			"Name": "DigitalDesignDude",
@@ -21,7 +24,10 @@
 			"FacebookValue": "",
 			"Twitter": "@DDesignDude",
 			"Discord": "DDesignDude#0055",
-			"Reddit": ""
+			"Reddit": "",
+			"GitHub": "DigitalDesignDude",
+			"Itchio": "surrealcubemedia",
+			"Website": "https://www.surrealcubemedia.com"
 		},
 		{
 			"Name": "Kenyon Bowers",
@@ -32,7 +38,10 @@
 			"FacebookValue": "",
 			"Twitter": "",
 			"Discord": "Bro. Kenyon#1492",
-			"Reddit": "SandwichDifferent953"
+			"Reddit": "SandwichDifferent953",
+			"GitHub": "BowersIndustry",
+			"Itchio": "bowersindustry",
+			"Website": ""
 		},
 		{
 			"Name": "SandySage",
@@ -43,7 +52,10 @@
 			"FacebookValue": "",
 			"Twitter": "",
 			"Discord": "",
-			"Reddit": ""
+			"Reddit": "",
+			"GitHub": "",
+			"Itchio": "",
+			"Website": ""
 		}
 	]
 }
